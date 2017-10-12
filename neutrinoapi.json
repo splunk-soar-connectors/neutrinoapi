@@ -1,7 +1,7 @@
 {
     "appid": "7494e101-27e9-4655-9148-0084b2cf3276",
     "name": "Neutrino API",
-    "description": "Detect potentially malicious or dangerous IP addresses by integrating with Neutrino API.",
+    "description": "Detect potentially malicious or dangerous IP addresses by integrating with Neutrino API",
     "type": "information",
     "product_vendor": "Neutrino",
     "logo": "neutrinoapi.png",
