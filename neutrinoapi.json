@@ -26,10 +26,8 @@
         },
         "api_key": {
             "description": "Api Key",
-            "data_type": "string",
+            "data_type": "password",
             "required": true,
-            "value_list": [],
-            "default": "",
             "order": 1
         }
     },
